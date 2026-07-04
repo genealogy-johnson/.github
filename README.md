@@ -1,6 +1,6 @@
 # Clusiau-Johnson Genealogy
 
-<img src="../images/logo.png" alt="Clusiau-Johnson Genealogy logo" width="96">
+<img src="images/logo.png" alt="Clusiau-Johnson Genealogy logo" width="96">
 
 GEDCOM-based family genealogy archive for the Clusiau-Johnson family.
 
